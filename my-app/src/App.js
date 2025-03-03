@@ -66,7 +66,7 @@ class StarWars extends React.Component {
           this.state.loadedCharacter &&
           <div>
           <img src={this.state.image} height={200} alt={this.state.name}/>
-          <h1><a href={this.state.wiki}>{this.state.name}</a></h1>
+          <h1><a href={this.state.wiki} target="_blank" rel="noopener noreferrer">{this.state.name}</a></h1>
           <p>Height:<br></br>{this.state.height} m</p>
           <p>Homeworld:<br></br>{this.state.homeworld}</p>
           <ul>
