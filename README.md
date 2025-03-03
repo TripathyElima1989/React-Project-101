@@ -15,7 +15,7 @@ This is a simple React app that fetches and displays random Star Wars character 
 ### Steps
 
 1. Clone the repository:
-git clone https://github.com/your-username/star-wars-random-character-app.git cd star-wars-random-character-app
+git clone https://github.com/TripathyElima1989/React-Project-101.git
 
 
 2. Install dependencies:
